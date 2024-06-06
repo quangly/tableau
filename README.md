@@ -1,6 +1,10 @@
 # Tableau
 Tableau Essential Training
 
+## Download Tableau Desktop
+    
+    https://www.tableau.com/products/trial
+
 ![Alt text](images/Tableau_1.png?raw=true "Tablue Screenshot")
 ![Alt text](images/Tableau_2.png?raw=true "Tablue Screenshot")
 ![Alt text](images/Tableau_3.png?raw=true "Tablue Screenshot")
